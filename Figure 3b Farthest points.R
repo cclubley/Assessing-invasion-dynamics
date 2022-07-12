@@ -71,7 +71,6 @@ max_seaway <- function(x, trb) {   # Requires a spdf of coordinates and a transi
   
   d <- max(z) # Find the maximum distance and save the output
   d
-  
 }
 
 # -----------------------------------------------------------------------------
